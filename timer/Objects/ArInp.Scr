@@ -1,0 +1,6 @@
+--create .\Objects\Template.lib
+.\objects\main.o
+.\objects\gpio.o
+.\objects\system_stm32f4xx.o
+.\objects\startup_stm32f429_439xx.o
+.\STM_Peripheral_Lib_v1.7.1.lib
